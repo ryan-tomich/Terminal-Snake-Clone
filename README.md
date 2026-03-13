@@ -7,7 +7,5 @@ Use `WASD` to move
 
 `Ctrl + C` to quit
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/ryan-tomich/Terminal-Snake-Clone/snake.js.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[<img src="https://img.youtube.com/vi/xysKT2ULFuw/hqdefault.jpg" width="800" height="450"
+/>](https://www.youtube.com/embed/xysKT2ULFuw)
